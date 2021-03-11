@@ -2,18 +2,44 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+  z-index: 100;
 
   &__logo {
     height: 25px;
+    margin-left: 20px;
   }
 
   &__search-container {
     display: flex;
     align-items: center;
+    width: 40%;
+    border: 1px solid lightgray;
+  }
+
+  &__search {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+
+    &-button {
+      width: 50px !important;
+      background-color: #fafafa;
+      border-left: 1px solid lightgray;
+      color: gray;
+    }
   }
 
   &__icons-container {
     display: flex;
     align-items: center;
+  }
+
+  &__icon {
+    margin-right: 8px;
   }
 }

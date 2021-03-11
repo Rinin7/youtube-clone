@@ -15,13 +15,13 @@ function Header() {
         <img className="header__logo" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="YouTube Logo" />
       </div>
       <div className="header__search-container">
-        <input type="text" />
-        <SearchIcon />
+        <input className="header__search" type="text" placeholder="Search" />
+        <SearchIcon className="header__search-button" />
       </div>
       <div className="header__icons-container">
-        <VideoCallSharpIcon />
-        <AppsIcon />
-        <NotificationsIcon />
+        <VideoCallSharpIcon className="header__icon" />
+        <AppsIcon className="header__icon" />
+        <NotificationsIcon className="header__icon" />
         <Avatar className="header__avatar" alt="Ryan headshot" src="https://avatars.githubusercontent.com/u/73149597?s=400&u=0dae2982491ac1fb466c4e09fd3dc2310f074a0d&v=4" />
       </div>
     </div>
