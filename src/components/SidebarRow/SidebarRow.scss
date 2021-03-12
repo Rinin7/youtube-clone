@@ -1,0 +1,42 @@
+.sidebarRow {
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+
+  &:hover {
+    background-color: lightgray;
+    cursor: pointer;
+  }
+
+  &:hover > .sidebarRow__icon {
+    color: red;
+  }
+
+  &:hover > .sidebarRow__title {
+    font-weight: bold;
+  }
+
+  &.selected {
+    background-color: lightgray;
+  }
+
+  &.selected > .sidebarRow__icon {
+    color: red;
+  }
+
+  &.selected > .sidebarRow__title {
+    font-weight: bold;
+  }
+
+  &__icon {
+    color: #606060;
+    font-size: large !important;
+  }
+
+  &__title {
+    margin-left: 20px;
+    flex: 1;
+    font-size: 12px;
+    font-weight: 500;
+  }
+}
