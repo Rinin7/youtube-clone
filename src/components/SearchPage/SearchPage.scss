@@ -1,0 +1,19 @@
+.searchpage {
+  flex: 0.8;
+  background-color: #f9f9f9;
+  padding: 20px 20px 0;
+
+  &__filter {
+    display: flex;
+    align-items: center;
+    color: #606060;
+    font-size: xx-small !important;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+
+  &__title {
+    margin-left: 10px;
+  }
+}

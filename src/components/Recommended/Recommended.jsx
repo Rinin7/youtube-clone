@@ -9,7 +9,7 @@ function Recommended() {
       <div className="recommended__videos">
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -17,7 +17,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -25,7 +25,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -33,7 +33,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -41,7 +41,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -49,7 +49,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -57,7 +57,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"
@@ -65,7 +65,7 @@ function Recommended() {
         />
         <VideoCard
           title="10 modern layouts in 1 line of CSS"
-          views="802k views"
+          views="802K views"
           timestamp="7 months ago"
           channelImage="https://yt3.ggpht.com/ytc/AAUvwnhY8HWFT8q7YrKwGRJrW52P8V5Rc-9pFTsYxMMoZQ=s68-c-k-c0x00ffffff-no-rj"
           channel="Google Chrome Developers"

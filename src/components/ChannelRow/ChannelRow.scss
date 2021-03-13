@@ -1,0 +1,36 @@
+.channelrow {
+  display: flex;
+  align-items: center;
+  width: 70%;
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+
+  &__text {
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__details {
+    color: #606060;
+    font-size: small !important;
+  }
+
+  &__logo {
+    height: 120px !important;
+    width: 120px !important;
+    margin: 10px 60px;
+  }
+
+  &__name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__verified {
+    height: 18px;
+    width: 18px;
+    margin-left: 3px;
+  }
+}
